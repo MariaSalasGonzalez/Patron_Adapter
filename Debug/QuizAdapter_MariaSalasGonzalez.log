@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Acceso denegado a la ruta de acceso 'c:\users\maria salas\source\repos\quizadapter_mariasalasgonzalez\debug\quizadapter_mariasalasgonzalez.exe'.
+  DatoBancario.cpp
+  Principal.cpp
+  ServicioBancario.cpp
+  Usuario.cpp
+  UsuarioAdaptador.cpp
+  Generando código...
+LINK : fatal error LNK1104: no se puede abrir el archivo 'C:\Users\Maria Salas\source\repos\QuizAdapter_MariaSalasGonzalez\Debug\QuizAdapter_MariaSalasGonzalez.exe'
